@@ -1,0 +1,414 @@
+id,name,provider_id,game_type,release_date
+1,Royal Dragon Hold & Win,8,slots,2019-03-11
+2,Frozen Tigers Xmas,16,slots,2020-10-14
+3,Royal Safari,1,slots,2022-02-16
+4,Blazing Pirates,11,slots,2023-10-03
+5,Emerald Safari,2,slots,2022-05-03
+6,Thunder Buffalo Megaways,1,slots,2020-08-13
+7,Mystic Buffalo Hold & Win,1,slots,2021-05-06
+8,Wild Tigers Deluxe,11,slots,2020-11-14
+9,Midnight Gems 2,1,slots,2022-01-30
+10,Ancient Wolves,16,slots,2020-04-18
+11,Mystic Pearls Hold & Win,6,slots,2019-08-07
+12,Savage Vikings Megaways,1,slots,2025-03-04
+13,Crimson Buffalo,8,slots,2022-06-21
+14,Lucky Vikings,1,slots,2023-11-14
+15,Hidden Vikings 2,8,slots,2026-07-19
+16,Neon Buffalo Megaways,2,slots,2019-01-02
+17,Lucky Treasure Megaways,1,slots,2019-02-28
+18,Emerald Lotus,3,slots,2022-07-21
+19,Silver Treasure Xmas,3,slots,2026-07-21
+20,Baccarat Pro Classic,13,table,2020-03-13
+21,Mystic Pirates,1,slots,2024-05-07
+22,Golden Fruits Megaways,5,slots,2021-04-08
+23,Live Roulette Gold,7,live,2023-06-16
+24,Royal Vikings,14,slots,2020-06-10
+25,Hidden Tigers Deluxe,13,slots,2021-07-25
+26,Hidden Tigers Hold & Win,9,slots,2024-01-19
+27,Jade Rockets Deluxe,1,slots,2020-09-01
+28,Auto Roulette One,24,live,2024-01-16
+29,Jade Pharaoh 2,3,slots,2022-04-07
+30,Savage Pearls Megaways,9,slots,2026-02-17
+31,Royal Pearls Xmas,9,slots,2020-11-23
+32,Mystic Safari 2,1,slots,2026-06-08
+33,Hidden Pharaoh,6,slots,2020-06-09
+34,Savage Wolves Megaways,1,slots,2021-03-13
+35,Thunder Cherries,1,slots,2020-03-01
+36,Savage Wolves Deluxe,12,slots,2026-06-09
+37,Savage Safari,5,slots,2024-12-03
+38,Electric Tigers,17,slots,2024-04-17
+39,Thunder Dragon,1,slots,2026-07-23
+40,Thunder Buffalo Xmas,1,slots,2023-07-14
+41,Emerald Sevens 2,8,slots,2024-12-24
+42,Neon Vikings,2,slots,2022-05-10
+43,Electric Crystals 2,1,slots,2023-06-20
+44,Neon Fortune,6,slots,2025-03-04
+45,Frozen Crystals 2,18,slots,2024-12-14
+46,Crimson Sevens,11,slots,2023-10-06
+47,Golden Fortune 2,11,slots,2022-05-21
+48,Electric Pearls Xmas,4,slots,2024-06-06
+49,Crimson Tigers,2,slots,2019-12-23
+50,Cosmic Gems Deluxe,4,slots,2024-03-04
+51,Neon Pearls,12,slots,2022-02-15
+52,Classic Blackjack,1,table,2023-12-20
+53,Lucky Lotus 2,6,slots,2021-09-01
+54,Emerald Gems,13,slots,2019-12-04
+55,Savage Pharaoh,20,slots,2023-10-20
+56,Electric Lotus Deluxe,4,slots,2019-05-07
+57,Lucky Riches,13,slots,2022-09-22
+58,Savage Crystals 2,1,slots,2026-07-23
+59,Midnight Fortune Deluxe,1,slots,2019-02-18
+60,Baccarat Pro Deluxe,2,table,2026-01-07
+61,Live Sic Bo One,24,live,2024-01-11
+62,Silver Safari Deluxe,3,slots,2019-07-25
+63,Blazing Crystals Hold & Win,4,slots,2024-03-21
+64,Silver Buffalo Hold & Win,1,slots,2020-07-22
+65,Ancient Fruits,9,slots,2025-03-07
+66,Silver Temple 2,10,slots,2024-11-21
+67,Jade Cherries Hold & Win,9,slots,2020-01-23
+68,Royal Cherries Deluxe,12,slots,2021-04-19
+69,Ancient Fruits Hold & Win,11,slots,2023-01-29
+70,Royal Gems Megaways,14,slots,2022-01-22
+71,Midnight Crystals 2,1,slots,2022-06-23
+72,Sunny Fruits,17,slots,2023-05-12
+73,Savage Riches Deluxe,19,slots,2023-01-05
+74,Golden Rockets Hold & Win,2,slots,2021-06-23
+75,Neon Sevens,2,slots,2023-06-30
+76,Savage Treasure Megaways,2,slots,2021-10-23
+77,Royal Tigers Xmas,13,slots,2025-02-08
+78,Midnight Riches,3,slots,2024-03-01
+79,Mystic Riches Xmas,8,slots,2022-05-17
+80,Golden Fruits,1,slots,2025-08-02
+81,Crimson Cherries Deluxe,2,slots,2022-12-14
+82,Jade Wolves Xmas,3,slots,2020-11-18
+83,Sunny Lotus,19,slots,2020-03-26
+84,Wild Wolves Megaways,16,slots,2021-09-12
+85,Savage Pharaoh Deluxe,14,slots,2025-02-13
+86,Royal Treasure,1,slots,2020-11-13
+87,Electric Riches Megaways,19,slots,2026-04-13
+88,Silver Rockets Xmas,18,slots,2023-10-17
+89,Ancient Fortune 2,11,slots,2019-08-20
+90,Electric Wolves 2,4,slots,2026-08-08
+91,Wild Treasure Hold & Win,9,slots,2021-09-14
+92,Midnight Buffalo Xmas,14,slots,2025-05-06
+93,Wild Pharaoh,1,slots,2022-09-10
+94,Wild Pirates,16,slots,2024-03-13
+95,Electric Fruits Xmas,23,slots,2026-02-14
+96,Silver Vikings,4,slots,2025-05-18
+97,Hidden Gems Deluxe,1,slots,2024-03-10
+98,Ancient Pharaoh,3,slots,2022-03-03
+99,Savage Temple,13,slots,2022-06-20
+100,Speed Roulette,7,live,2020-09-01
+101,Jade Safari,12,slots,2019-11-30
+102,Jade Fruits Hold & Win,16,slots,2024-07-30
+103,Casino Hold'em Pro,1,table,2022-04-04
+104,Wild Buffalo,4,slots,2021-08-05
+105,Electric Buffalo Hold & Win,3,slots,2025-12-29
+106,Ancient Gems 2,3,slots,2021-01-22
+107,Royal Fruits Xmas,12,slots,2020-02-24
+108,Live Sic Bo Studio,7,live,2021-10-30
+109,Auto Roulette Prime,7,live,2026-04-26
+110,Hidden Pirates Hold & Win,22,slots,2024-06-18
+111,Hidden Pirates 2,17,slots,2020-05-18
+112,Red Dog Pro,9,table,2023-04-11
+113,Blazing Sevens Deluxe,1,slots,2025-10-19
+114,Lucky Wolves Megaways,3,slots,2023-08-01
+115,Royal Cherries,6,slots,2025-12-23
+116,Savage Rockets Xmas,1,slots,2025-08-25
+117,Midnight Dragon Xmas,8,slots,2019-12-19
+118,Neon Temple 2,3,slots,2025-11-18
+119,Sunny Sevens Deluxe,2,slots,2023-10-17
+120,Lucky Cherries Deluxe,6,slots,2024-06-10
+121,Lucky Rockets Deluxe,5,slots,2020-06-29
+122,Royal Temple Megaways,2,slots,2020-03-04
+123,Silver Sevens Deluxe,1,slots,2022-06-04
+124,Lucky Safari,9,slots,2024-04-07
+125,Sunny Dragon Deluxe,23,slots,2024-03-18
+126,Blazing Dragon Megaways,4,slots,2020-05-06
+127,Mystic Rockets Xmas,11,slots,2019-07-15
+128,Wild Safari Deluxe,2,slots,2020-11-08
+129,Savage Wolves,3,slots,2026-02-01
+130,Hidden Fortune Deluxe,1,slots,2025-01-02
+131,Savage Dragon,1,slots,2021-08-31
+132,Blazing Cherries,2,slots,2022-07-17
+133,Frozen Buffalo,12,slots,2025-11-10
+134,Mystic Crystals,14,slots,2022-11-09
+135,Electric Tigers Deluxe,1,slots,2019-04-16
+136,Lucky Lotus Deluxe,1,slots,2024-09-12
+137,Ancient Buffalo,1,slots,2019-06-26
+138,Jade Pirates Hold & Win,5,slots,2025-09-11
+139,Crimson Dragon Hold & Win,3,slots,2025-06-03
+140,Royal Crystals,11,slots,2023-08-02
+141,Emerald Fruits Xmas,15,slots,2025-11-19
+142,Sunny Riches Xmas,3,slots,2021-01-13
+143,Golden Safari,4,slots,2021-12-24
+144,Lucky Temple,18,slots,2019-03-28
+145,Electric Sevens Hold & Win,1,slots,2025-10-09
+146,Mystic Gems Xmas,21,slots,2023-03-02
+147,Live Poker Studio,24,live,2022-10-14
+148,Blazing Pharaoh 2,11,slots,2020-01-29
+149,Hidden Fortune Xmas,6,slots,2021-12-03
+150,Lucky Pharaoh Deluxe,1,slots,2023-11-05
+151,Golden Vikings,8,slots,2024-09-06
+152,Three Card Poker Gold,1,table,2019-01-07
+153,Silver Temple,14,slots,2024-02-19
+154,Blazing Gems Deluxe,1,slots,2019-09-21
+155,Electric Rockets Deluxe,23,slots,2022-09-13
+156,Crimson Treasure,10,slots,2026-05-04
+157,Frozen Pearls 2,9,slots,2021-07-17
+158,Frozen Pharaoh,9,slots,2023-07-19
+159,Crimson Crystals,9,slots,2025-12-31
+160,Hidden Riches,9,slots,2024-07-22
+161,Neon Gems Deluxe,1,slots,2019-06-19
+162,Electric Gems Deluxe,6,slots,2020-12-06
+163,Hidden Pirates,2,slots,2023-01-01
+164,Sunny Pirates,1,slots,2021-05-03
+165,Royal Sevens,2,slots,2019-07-24
+166,Wild Pearls Megaways,1,slots,2022-10-19
+167,Sunny Treasure,5,slots,2019-09-11
+168,Silver Buffalo,21,slots,2021-01-31
+169,Wild Fruits Deluxe,16,slots,2020-02-25
+170,Mystic Cherries,6,slots,2023-08-22
+171,Lucky Sevens,11,slots,2026-04-26
+172,Live Roulette One,7,live,2021-12-03
+173,Crimson Gems Deluxe,1,slots,2022-08-07
+174,Wild Dragon 2,12,slots,2022-03-14
+175,Cosmic Pirates 2,15,slots,2024-08-06
+176,Thunder Crystals Hold & Win,6,slots,2019-08-29
+177,European Roulette Classic,1,table,2020-01-19
+178,Frozen Tigers 2,3,slots,2025-04-23
+179,Wild Dragon Xmas,1,slots,2024-06-17
+180,Ancient Lotus Deluxe,9,slots,2026-01-10
+181,Savage Treasure Hold & Win,17,slots,2026-03-26
+182,Live Poker Gold,7,live,2024-02-22
+183,Jade Riches Hold & Win,6,slots,2023-05-01
+184,Thunder Treasure Hold & Win,4,slots,2022-05-28
+185,Ancient Dragon,2,slots,2025-04-22
+186,Live Poker Prime,24,live,2025-07-04
+187,Ancient Gems,19,slots,2024-08-02
+188,Silver Pearls Hold & Win,4,slots,2019-11-08
+189,Midnight Pharaoh,1,slots,2021-07-14
+190,Hidden Wolves 2,1,slots,2024-07-30
+191,Crimson Treasure Deluxe,3,slots,2023-07-03
+192,Emerald Buffalo,4,slots,2022-07-16
+193,Pai Gow Deluxe,13,table,2024-11-14
+194,Golden Cherries Hold & Win,2,slots,2023-05-19
+195,Lucky Pharaoh Hold & Win,15,slots,2022-01-24
+196,Cosmic Fortune,4,slots,2023-09-25
+197,Frozen Gems Xmas,19,slots,2023-11-16
+198,Hidden Safari Xmas,5,slots,2019-10-10
+199,Silver Pharaoh Deluxe,13,slots,2020-05-30
+200,Mystic Dragon,1,slots,2026-06-07
+201,Hidden Riches Hold & Win,1,slots,2020-02-01
+202,Blazing Safari Megaways,18,slots,2019-01-19
+203,Hidden Safari,1,slots,2026-03-17
+204,Cosmic Riches,15,slots,2026-03-01
+205,Blazing Tigers,6,slots,2024-08-21
+206,Silver Tigers,13,slots,2025-11-03
+207,Lucky Cherries Hold & Win,8,slots,2019-07-23
+208,Crimson Treasure Xmas,2,slots,2021-10-26
+209,Three Card Poker Classic,1,table,2022-09-04
+210,Mystic Vikings,5,slots,2024-02-28
+211,Cosmic Temple Xmas,17,slots,2021-05-26
+212,Lightning Dice Gold,7,live,2021-03-22
+213,Emerald Wolves Deluxe,23,slots,2025-02-04
+214,Royal Sevens 2,8,slots,2019-10-24
+215,Ancient Rockets Hold & Win,2,slots,2019-06-23
+216,Midnight Rockets Megaways,1,slots,2021-01-09
+217,Sunny Tigers,2,slots,2023-02-13
+218,Dream Catcher Live,7,live,2026-03-05
+219,Sunny Tigers 2,2,slots,2022-05-30
+220,Blazing Fruits 2,17,slots,2025-05-06
+221,Savage Vikings,12,slots,2022-03-07
+222,Thunder Lotus Hold & Win,15,slots,2026-01-29
+223,Ancient Rockets Megaways,2,slots,2024-07-13
+224,Frozen Fortune Xmas,5,slots,2022-03-24
+225,Savage Fruits Megaways,4,slots,2023-11-19
+226,Midnight Crystals Megaways,13,slots,2022-04-21
+227,Midnight Lotus,12,slots,2024-09-15
+228,Emerald Wolves,1,slots,2024-04-03
+229,Lucky Rockets Xmas,2,slots,2023-05-03
+230,Savage Sevens,5,slots,2019-05-19
+231,Neon Fruits Xmas,3,slots,2022-05-20
+232,Royal Wolves,2,slots,2021-03-30
+233,Pai Gow,8,table,2023-03-18
+234,Baccarat Pro Gold,21,table,2024-03-28
+235,Classic Blackjack Pro,3,table,2022-03-25
+236,Lucky Safari Megaways,1,slots,2019-12-09
+237,Golden Dragon,1,slots,2024-01-14
+238,Silver Lotus Megaways,2,slots,2019-10-04
+239,Lucky Crystals,15,slots,2021-03-26
+240,Crimson Pirates Megaways,3,slots,2021-06-03
+241,Golden Temple,8,slots,2021-06-14
+242,Mystic Pearls 2,18,slots,2022-08-09
+243,Cosmic Crystals Deluxe,5,slots,2021-04-17
+244,Midnight Fortune Megaways,2,slots,2020-06-18
+245,Royal Fortune 2,16,slots,2023-06-10
+246,Thunder Treasure Xmas,4,slots,2020-05-31
+247,Lucky Treasure,17,slots,2022-12-30
+248,Sunny Pharaoh,3,slots,2024-10-06
+249,Jade Rockets,2,slots,2024-12-26
+250,Neon Rockets,2,slots,2024-03-23
+251,Crimson Treasure Hold & Win,6,slots,2020-10-15
+252,Electric Vikings Megaways,6,slots,2019-05-31
+253,Sunny Dragon,1,slots,2026-06-11
+254,Silver Pirates,12,slots,2026-03-04
+255,Electric Crystals Megaways,3,slots,2026-02-14
+256,Midnight Dragon 2,6,slots,2020-12-03
+257,Silver Sevens,3,slots,2020-04-17
+258,Emerald Dragon Megaways,16,slots,2022-06-02
+259,Wild Pharaoh Xmas,15,slots,2025-12-31
+260,Golden Tigers Megaways,3,slots,2024-01-17
+261,Midnight Buffalo Deluxe,8,slots,2022-01-16
+262,Emerald Temple Deluxe,6,slots,2020-06-04
+263,Wild Pearls Hold & Win,14,slots,2022-02-07
+264,Crimson Crystals Hold & Win,3,slots,2019-04-15
+265,Sunny Cherries,14,slots,2023-08-01
+266,Midnight Treasure,11,slots,2020-12-02
+267,Frozen Tigers,8,slots,2026-02-16
+268,Thunder Cherries Hold & Win,18,slots,2019-06-24
+269,Wild Gems Deluxe,4,slots,2020-09-18
+270,Golden Pirates,1,slots,2025-02-02
+271,Emerald Pearls,2,slots,2025-11-17
+272,Ancient Treasure Megaways,1,slots,2019-11-24
+273,Royal Pearls,1,slots,2021-03-06
+274,Thunder Tigers,8,slots,2024-12-24
+275,Savage Riches Hold & Win,8,slots,2023-11-04
+276,Ancient Fortune,5,slots,2026-03-20
+277,Electric Rockets 2,1,slots,2026-05-20
+278,Silver Fruits,2,slots,2020-07-15
+279,Sunny Rockets 2,2,slots,2023-10-15
+280,Golden Gems Hold & Win,5,slots,2025-05-13
+281,Hidden Cherries,4,slots,2024-12-04
+282,Casino Hold'em Deluxe,1,table,2021-08-05
+283,Hidden Fruits,3,slots,2020-09-12
+284,Ancient Lotus,3,slots,2025-01-20
+285,Jade Fortune Hold & Win,1,slots,2019-04-06
+286,Neon Safari Hold & Win,1,slots,2020-06-02
+287,Electric Rockets Xmas,1,slots,2021-03-31
+288,Electric Riches 2,13,slots,2025-08-06
+289,Crimson Dragon,14,slots,2021-11-09
+290,Savage Safari 2,1,slots,2022-11-26
+291,Midnight Pearls Deluxe,6,slots,2025-11-20
+292,Jade Crystals Hold & Win,3,slots,2025-12-24
+293,Blackjack VIP,24,live,2021-04-13
+294,Ancient Tigers 2,2,slots,2025-08-10
+295,Cosmic Lotus,5,slots,2024-07-19
+296,Golden Riches 2,1,slots,2021-09-26
+297,Thunder Safari,18,slots,2024-12-12
+298,Blazing Crystals,4,slots,2020-04-05
+299,Jade Pirates,2,slots,2023-11-04
+300,Dream Catcher Live Gold,7,live,2022-07-28
+301,Midnight Rockets,2,slots,2023-01-14
+302,Mystic Buffalo,17,slots,2019-08-20
+303,Jade Tigers 2,15,slots,2026-04-24
+304,Classic Blackjack Deluxe,20,table,2026-04-29
+305,Hidden Buffalo Megaways,2,slots,2026-03-30
+306,Blazing Fortune Megaways,1,slots,2020-04-13
+307,Midnight Sevens Deluxe,2,slots,2026-08-05
+308,Cosmic Wolves,1,slots,2025-12-29
+309,Red Dog Gold,5,table,2025-07-25
+310,Mystic Wolves Hold & Win,9,slots,2020-04-07
+311,Live Blackjack Studio,7,live,2026-02-11
+312,Savage Crystals,16,slots,2025-01-22
+313,Thunder Rockets 2,4,slots,2026-01-24
+314,Silver Riches Xmas,1,slots,2023-03-19
+315,Blazing Treasure Deluxe,2,slots,2020-04-04
+316,Midnight Fruits,11,slots,2024-11-10
+317,Savage Tigers Hold & Win,10,slots,2023-09-22
+318,Lucky Tigers Xmas,8,slots,2019-03-13
+319,Auto Roulette Gold,7,live,2026-01-05
+320,Electric Safari,1,slots,2025-09-25
+321,Classic Blackjack Gold,1,table,2026-05-12
+322,European Roulette Pro,22,table,2025-11-15
+323,Thunder Cherries Deluxe,4,slots,2025-04-01
+324,Neon Tigers Megaways,3,slots,2023-05-22
+325,Golden Fruits Hold & Win,10,slots,2023-07-22
+326,Cosmic Gems,12,slots,2023-12-16
+327,Mystic Lotus Megaways,2,slots,2019-05-08
+328,Thunder Sevens,1,slots,2019-07-18
+329,Cosmic Safari 2,17,slots,2022-06-19
+330,Sunny Pearls Deluxe,10,slots,2019-06-01
+331,Royal Cherries Hold & Win,1,slots,2025-07-02
+332,Royal Temple,2,slots,2022-12-29
+333,Royal Gems Deluxe,1,slots,2021-12-29
+334,Emerald Buffalo Hold & Win,5,slots,2021-08-12
+335,Blazing Gems Hold & Win,2,slots,2020-02-21
+336,Electric Pearls,3,slots,2020-12-24
+337,Royal Dragon,2,slots,2021-06-22
+338,Crimson Rockets Megaways,1,slots,2021-12-27
+339,Live Baccarat Studio,7,live,2019-03-18
+340,Live Blackjack Gold,7,live,2021-04-02
+341,Wild Crystals Xmas,15,slots,2022-05-21
+342,Ancient Vikings Hold & Win,2,slots,2019-03-14
+343,Mystic Temple Hold & Win,3,slots,2026-08-04
+344,European Roulette Gold,1,table,2020-07-18
+345,Wild Vikings 2,18,slots,2019-12-14
+346,Red Dog Classic,13,table,2026-03-04
+347,Silver Rockets,16,slots,2025-10-18
+348,Wild Gems,3,slots,2019-12-12
+349,Thunder Rockets,16,slots,2019-03-27
+350,Electric Buffalo Xmas,11,slots,2026-07-25
+351,Savage Pharaoh Xmas,1,slots,2023-02-25
+352,Wild Treasure 2,1,slots,2023-03-26
+353,Savage Fortune,11,slots,2020-08-14
+354,Lucky Gems,8,slots,2026-04-13
+355,Sunny Buffalo,1,slots,2019-02-12
+356,Golden Pharaoh,1,slots,2019-12-14
+357,Crazy Coin Flip,7,live,2020-01-29
+358,Sunny Rockets,1,slots,2024-10-22
+359,Crimson Temple,3,slots,2021-06-04
+360,Thunder Pearls 2,1,slots,2022-12-18
+361,Red Dog Deluxe,3,table,2022-09-29
+362,Blazing Pharaoh Megaways,4,slots,2026-02-17
+363,Ancient Sevens,10,slots,2023-01-04
+364,Jade Lotus Megaways,20,slots,2024-08-10
+365,Mystic Pirates Hold & Win,23,slots,2022-01-28
+366,Live Sic Bo,24,live,2022-08-20
+367,Blackjack VIP Plus,7,live,2019-07-30
+368,Mega Wheel,7,live,2024-08-30
+369,Sunny Crystals,6,slots,2025-03-22
+370,Blazing Vikings Megaways,10,slots,2024-12-25
+371,Silver Dragon,5,slots,2024-06-27
+372,Thunder Tigers Megaways,5,slots,2022-02-07
+373,Emerald Fruits Megaways,20,slots,2022-06-01
+374,Casino Hold'em,9,table,2020-10-05
+375,Royal Safari 2,1,slots,2020-05-31
+376,Savage Dragon Megaways,1,slots,2020-08-02
+377,Crimson Fortune Deluxe,6,slots,2019-03-17
+378,Thunder Gems Hold & Win,1,slots,2021-02-10
+379,Pai Gow Classic,6,table,2023-11-09
+380,Jade Temple Megaways,6,slots,2021-07-07
+381,Frozen Pirates Deluxe,21,slots,2020-06-25
+382,Golden Safari Deluxe,2,slots,2025-10-10
+383,Dream Catcher Live One,24,live,2024-11-22
+384,Hidden Temple,15,slots,2025-04-07
+385,Royal Pirates Deluxe,18,slots,2023-07-28
+386,Frozen Pharaoh 2,1,slots,2024-12-27
+387,European Roulette,2,table,2024-07-24
+388,Lucky Cherries Megaways,2,slots,2024-04-26
+389,Thunder Temple,3,slots,2023-05-12
+390,Sunny Gems 2,3,slots,2023-07-28
+391,Electric Crystals Hold & Win,12,slots,2024-05-16
+392,Cosmic Riches Megaways,1,slots,2023-07-16
+393,Frozen Rockets Megaways,3,slots,2020-02-28
+394,Crimson Fortune,1,slots,2020-07-26
+395,Hidden Temple Xmas,18,slots,2026-06-30
+396,Savage Lotus Megaways,19,slots,2021-08-12
+397,Jade Wolves,15,slots,2022-10-08
+398,Neon Cherries Megaways,13,slots,2022-12-05
+399,Neon Treasure Xmas,1,slots,2023-06-23
+400,Jade Buffalo Deluxe,5,slots,2019-04-28
+401,Crazy Coin Flip Plus,24,live,2021-09-01
+402,Live Sic Bo Max,24,live,2023-04-09
+403,Mega Wheel One,24,live,2023-05-16
+404,Mega Wheel Plus,24,live,2025-10-02
+405,Live Roulette Studio,24,live,2020-03-10
+406,Live Poker Lux,24,live,2021-08-07
+407,Live Baccarat Prime,24,live,2025-06-06
+408,Royal Safari,25,slots,2022-02-16
+409,Jade Wolves Hold & Win,25,slots,2025-09-23
+410,Wild Tigers 2,25,slots,2025-06-18
+411,Golden Riches,25,slots,2025-11-04
+412,Cosmic Pharaoh,25,slots,2026-06-07
+413,Golden Lotus,25,slots,2025-07-23
