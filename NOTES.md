@@ -92,12 +92,32 @@ now exists for the frontend, alongside `npm run dev`/`npm run build`.
 
 ## Tools / AI used
 
-Used Claude Code (Claude Sonnet 5) throughout, as an interactive pair: it explored the
-repo, ran and read SQL against the real dataset for every Part A/B answer (nothing in
-`ANSWERS.md` is guessed - every number came from an actual query against
-`backend/db.sqlite3`), implemented the C1-C3 backend changes and D1-D2 frontend
-changes, and wrote/ran the test suites (Django's `manage.py test`, and a new Vitest
-suite). It also used Playwright with a local headless Chrome to click through the
-running app and catch the D1-bug-2 race condition described above, rather than trusting
-the fix from a code read alone. I reviewed and understand every change - happy to walk
-through and modify any of it live on the call.
+Used **Claude Code (Claude Sonnet 5)** as an interactive pair throughout, plus two
+supporting tools it drove. Breakdown by part:
+
+- **Part A** — ran the actual SQL for every question against `backend/db.sqlite3`
+  (via `run_sql.py`) and read back the results; nothing in `ANSWERS.md` is a guess or
+  a memorised number. For A9 it also ran extra exploratory queries (duplicate games,
+  position collisions, `tiles_found` vs. actual tile-row counts) to find data-quality
+  issues beyond the ones the questions point at directly.
+- **Part B** — wrote the B1/B3 SQL files, ran `EXPLAIN QUERY PLAN` before and after
+  adding the B2 index and generated the Django migration for it, and actually executed
+  the B3 merge script against the real database (checking row counts moved) before
+  restoring the original data with `load_data`, rather than writing untested SQL.
+- **Part C** — wrote the `month_bounds`/approval-rate fixes (C1), the
+  `provider_market_share` service + view + tests (C2), and the `select_related`/
+  annotation fix for the casino N+1 (C3); ran `manage.py test lobby` after each change
+  to confirm the fix and check nothing else broke.
+- **Part D** — wrote the Overview fixes (D1) and the `MarketShare.jsx` page (D2).
+  Used **Playwright, driving a local headless Chrome**, to actually click through the
+  running app (switch geography, page through the casino list, sort/filter the market
+  share table) rather than trusting a code read alone - this is how the D1-bug-2 race
+  condition (see "Decisions and trade-offs" above) was caught: my first fix looked
+  correct on paper but still 404'd in the browser. Also used it to confirm the fixed
+  version has no console/page errors and no failed requests. Wrote the Vitest +
+  Testing Library suite for `MarketShare.jsx` and ran it (and `npm run build`) to
+  confirm the page renders and builds cleanly.
+- **Part E** — this file.
+
+I reviewed and understand every change - happy to walk through and modify any of it
+live on the call.
