@@ -92,6 +92,13 @@ class ScrapeRun(models.Model):
 
     class Meta:
         db_table = "scrape_run"
+        indexes = [
+            # Speeds up the "counted runs" access path (R1-R3 + date range): for a
+            # given casino, seek straight to the run_date range and show_data value
+            # instead of scanning every run of that casino. See db/slow_query.sql
+            # and ANSWERS.md -> B2.
+            models.Index(fields=["casino", "run_date", "show_data"], name="scraperun_casino_date_show_idx"),
+        ]
 
 
 class GamePosition(models.Model):
