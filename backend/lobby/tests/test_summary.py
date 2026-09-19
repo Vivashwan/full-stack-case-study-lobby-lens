@@ -47,3 +47,22 @@ class SummaryApiTests(TestCase):
         body = self.get(month="2026-08").json()
         self.assertEqual(body["total_runs"], 5)
         self.assertEqual(body["active_casinos"], 2)
+
+    def test_february_does_not_error(self):
+        """Regression test for task C1: month_bounds used to build date(year, 2, 30),
+        which doesn't exist and raised ValueError."""
+        resp = self.get(month="2026-02", geography=self.geo.id)
+        self.assertEqual(resp.status_code, 200)
+        self.assertEqual(resp.json()["total_runs"], 0)
+
+    def test_31_day_month_includes_the_31st(self):
+        """Regression test for task C1: date(year, mon, 30) truncated the last day of
+        any 31-day month, silently dropping the 31st from the range."""
+        body = self.get(month="2026-08", geography=self.geo.id).json()
+        self.assertEqual(body["total_runs"], 4)  # includes the run on 2026-08-31
+
+    def test_approval_rate_is_not_truncated_to_zero(self):
+        """Regression test for task C1: `approved // total` (integer division) rounded
+        every non-100% approval rate down to 0."""
+        body = self.get(month="2026-08", geography=self.geo.id).json()
+        self.assertNotEqual(body["approval_rate_pct"], 0)
