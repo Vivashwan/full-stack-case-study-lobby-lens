@@ -64,4 +64,4 @@ npm run dev                        # http://localhost:5173  (proxies /api to :80
 | `GET /api/geographies/` | all geographies |
 | `GET /api/casinos/?geography=<id>&is_active=true\|false&page=<n>` | paginated, 20 per page |
 | `GET /api/summary/?month=YYYY-MM[&geography=<id>]` | KPI cards on the Overview page |
-| `GET /api/provider-market-share/?geography=<id>&month=YYYY-MM` | **you build this (C2)** |
+| `GET /api/provider-market-share/?geography=<id>&month=YYYY-MM` | built this (C2) |
