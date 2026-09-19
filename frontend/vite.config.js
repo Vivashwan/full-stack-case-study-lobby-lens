@@ -8,4 +8,8 @@ export default defineConfig({
     port: 5173,
     proxy: { "/api": "http://localhost:8000" },
   },
+  test: {
+    environment: "jsdom",
+    globals: true,
+  },
 });

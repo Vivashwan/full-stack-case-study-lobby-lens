@@ -17,7 +17,7 @@ export default function Overview() {
       .summary({ month: MONTH, geography })
       .then(setSummary)
       .catch((e) => setError(e.message));
-  }, []);
+  }, [geography]);
 
   useEffect(() => {
     api
@@ -31,11 +31,21 @@ export default function Overview() {
 
   const pageCount = Math.max(1, Math.ceil(casinos.count / 20));
 
+  // Changing geography can shrink the casino list below the page we're currently on
+  // (e.g. viewing page 2 of "All geographies", then picking a small geography). Reset
+  // to page 1 in the change handler itself - not in a separate effect keyed on
+  // `geography` - so the casinos-fetch effect above never runs with the old page
+  // number for the new geography in between.
+  function handleGeographyChange(value) {
+    setGeography(value);
+    setPage(1);
+  }
+
   return (
     <section>
       <div className="page-head">
         <h1>Overview · August 2026</h1>
-        <GeographySelect value={geography} onChange={setGeography} allowAll />
+        <GeographySelect value={geography} onChange={handleGeographyChange} allowAll />
       </div>
 
       {error && <div className="error">Something went wrong: {error}</div>}
